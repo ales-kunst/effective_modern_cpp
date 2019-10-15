@@ -1,9 +1,9 @@
-[submodule ".\\extern\\fmt"]
-	path = .\\extern\\fmt
+[submodule "extern/fmt"]
+	path = extern/fmt
 	url = https://github.com/fmtlib/fmt.git
-[submodule ".\\extern\\dbg-macro"]
-	path = .\\extern\\dbg-macro
+[submodule "extern/dbg-macro"]
+	path = extern/dbg-macro
 	url = https://github.com/sharkdp/dbg-macro.git
-[submodule ".\\extern\\hayai"]
-	path = .\\extern\\hayai
+[submodule "extern/hayai"]
+	path = extern/hayai
 	url = https://github.com/nickbruun/hayai.git
